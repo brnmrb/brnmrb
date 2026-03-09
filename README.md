@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Bruno 👋
 
-<!--
-**brnmrb/brnmrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Estudante de **Sistemas de Informação** na Universidade Anhembi Morumbi (UAM)
+* 💻 Interessado em tecnologia, programação e desenvolvimento de software.
+* 📚 Este perfil é um espaço onde compartilho projetos, estudos e experimentos enquanto evoluo na área de tecnologia.
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Cursando Sistemas de Informação
+* 💡 Interessado em desenvolvimento de software e soluções digitais
+* 📚 Sempre aprendendo novas ferramentas e tecnologias
+* 🌎 Buscando evoluir e construir projetos cada vez melhores
+
+---
+## 📂 Projetos
+*Em breve adicionarei projetos desenvolvidos durante meus estudos e práticas na área de tecnologia.*
+
+---
+
+## 🌍 Idiomas
+🇧🇷 Português — Nativo
+🇪🇦 Espanhol — Intermediário
+
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.in/brunomarb)
+
+---
+  
+### ☕ Sempre aprendendo, construindo e evoluindo no mundo da tecnologia.
